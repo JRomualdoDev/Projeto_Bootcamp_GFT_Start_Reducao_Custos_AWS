@@ -1,0 +1,1 @@
+# Projeto_Bootcamp_GFT_Start_Reducao_Custos_AWS
